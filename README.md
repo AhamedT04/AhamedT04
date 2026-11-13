@@ -1,13 +1,18 @@
 ## Ahamed Tidiane Tall
 
-Étudiant en informatique appliquée à l'Université de Moncton (fin prévue en avril 2027) et spécialiste en soutien technologique chez UNI Coopération financière. Je m'oriente vers la cybersécurité défensive : surveillance, détection et réponse aux incidents.
+Étudiant en informatique appliquée à l'Université de Moncton (fin prévue en avril 2027). Je m'oriente vers la cybersécurité défensive : surveillance, détection et réponse aux incidents.
 
-*Applied CS student at Université de Moncton and IT support specialist, focused on defensive security (SOC / Blue Team).*
+*Applied CS student at Université de Moncton, focused on defensive security (SOC / Blue Team). IT support experience in a 600+ employee financial cooperative.*
 
 ### En ce moment
 
 - Je monte un SOC maison (Wazuh, Sysmon, Kali, Windows 11) et je documente chaque scénario d'attaque, de l'exécution à la détection : [soc-lab](https://github.com/AhamedT04/soc-lab)
+- Responsable des technologies et des données à l'Association Malienne du Nouveau-Brunswick : site web, base de données MySQL, gestion des membres
 - Je suis ouvert aux stages et aux postes en cybersécurité ou en soutien TI
+
+### Expérience
+
+- **Spécialiste en soutien technologique (stage)**, UNI Coopération financière, Caraquet (mai à août 2026) : soutien de premier niveau pour plus de 600 employés, gestion du parc avec Intune et MECM, comptes et accès dans Active Directory et Entra ID, scripts PowerShell, suivi dans JIRA, documentation technique
 
 ### Projets
 
@@ -21,5 +26,9 @@
 ### Outils
 
 - **Sécurité :** Wazuh, Sysmon, Kali Linux, Nmap, MITRE ATT&CK
-- **Systèmes et TI :** Linux, Windows, Active Directory, Entra ID, Intune, MECM, Azure, Docker, KVM
-- **Langages :** Python, C++, JavaScript, PowerShell, Bash, SQL, PHP (Laravel), NASM
+- **Systèmes et TI :** Linux, Windows, Active Directory, Entra ID, Intune, MECM, Azure, Docker, KVM, administration réseau, JIRA
+- **Langages :** Python, C++, JavaScript, PowerShell, Bash, SQL (MySQL), PHP (Laravel), NASM
+
+### Me joindre
+
+[LinkedIn](https://www.linkedin.com/in/ahamedtidianetall/)
